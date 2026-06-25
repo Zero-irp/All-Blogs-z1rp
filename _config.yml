@@ -1,0 +1,18 @@
+title: "All Blogs and Write-ups: z1rp"
+description: "Technical Resercher and Reverse Engineer"
+baseurl: "/All-Blogs-z1rp"
+url: "https://zero-irp.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+author: z1rp
+email: Zer0_1rp@proton.me
+show_excerpts: true
+
+minima:
+  skin: dark
