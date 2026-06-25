@@ -3,7 +3,7 @@ layout: default
 title: "Index"
 ---
 
-Hello👋! I am a technical researcher specializing in reverse engineering, rendering pipelines, and low-level CPU optimization. This site serves as my public notebook. A place to document the engines I dissect and write about everything i have learned just for the fun of it.
+Hello👋! I am a technical researcher specializing in reverse engineering, rendering pipelines, and low-level CPU optimization. This site serves as my public notebook. A place to document the engines I dissect and write about everything I have learned thus far.
 
 I operate under a few different aliases: z1rp, zer0_1rp, or zero_irp.
 
