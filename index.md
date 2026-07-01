@@ -12,6 +12,6 @@ Feel free to reach out to at: Discord: zer0_1rp Reddit: u/zer0_1rp X: zer0_1rp
 # All Blogs
 - [Reversing The Construction Of The View-Projection Matrix](https://zero-irp.github.io/ViewProj-Blog/)
 - [Math at Scale: Reversing the AAA Projection Matrix](https://zero-irp.github.io/Proj-Blog/)
-- [Redundancy and Over-Engineering seen in AAA Game Engines](https://zero-irp.github.io/Redun-Blog/)
+- [Redundancy and Over-Engineering seen in AAA Game Engines](https://zero-irp.github.io/Redundancy-seen-in-AAA-game-engines/)
 
 
